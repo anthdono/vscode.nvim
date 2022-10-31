@@ -59,7 +59,7 @@ if vim.o.background == 'dark' then
         vscDarkBlue = '#223E55',
         vscMediumBlue = '#18a2fe',
         vscLightBlue = '#9CDCFE',
-        vscGreen = '#6A9955',
+        vscGreen = '#778C67',
         vscBlueGreen = '#4EC9B0',
         vscLightGreen = '#B5CEA8',
         vscRed = '#F44747',

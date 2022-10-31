@@ -40,7 +40,7 @@ vscode.setup = function(user_opts)
     vim.g.colors_name = 'vscode'
 
     theme.set_highlights(opts)
-    theme.link_highlight()
+    -- theme.link_highlight()
 
     for group, val in pairs(opts['group_overrides']) do
         vim.api.nvim_set_hl(0, group, val)
